@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drawables
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <bitmap id="LauncherIcon" filename="launcher_icon.svg" dithering="none"/>
+    <bitmap id="IconSteps" filename="icon_steps.svg" dithering="none"/>
+    <bitmap id="IconBattery" filename="icon_battery.svg" dithering="none"/>
+    <bitmap id="IconTemperature" filename="icon_temperature.svg" dithering="none"/>
+    <bitmap id="IconHeart" filename="icon_heart.svg" dithering="none"/>
+    <bitmap id="IconBodyBattery" filename="icon_body_battery.svg" dithering="none"/>
+    <bitmap id="DecorComplicationCircle" filename="decor_complication_circle.svg" dithering="none"/>
+    <bitmap id="DecorBatteryRing" filename="decor_battery_ring.svg" dithering="none"/>
+    <bitmap id="DecorDateCapsule" filename="decor_date_capsule.svg" dithering="none"/>
+    <bitmap id="DecorDateGuides" filename="decor_date_guides.svg" dithering="none"/>
+    <bitmap id="DecorTopArcs" filename="decor_top_arcs.svg" dithering="none"/>
+    <bitmap id="DecorSideArcLeft" filename="decor_side_arc_left.svg" dithering="none"/>
+    <bitmap id="DecorSideArcRight" filename="decor_side_arc_right.svg" dithering="none"/>
+    <bitmap id="DecorFullOverlay" filename="decor_full_overlay.svg" dithering="none"/>
+    <bitmap id="ModelStaticOverlay" filename="model_static_overlay.png" dithering="none"/>
+    <bitmap id="TimeDigit0" filename="time_digit_0.png" dithering="none"/>
+    <bitmap id="TimeDigit1" filename="time_digit_1.png" dithering="none"/>
+    <bitmap id="TimeDigit2" filename="time_digit_2.png" dithering="none"/>
+    <bitmap id="TimeDigit3" filename="time_digit_3.png" dithering="none"/>
+    <bitmap id="TimeDigit4" filename="time_digit_4.png" dithering="none"/>
+    <bitmap id="TimeDigit5" filename="time_digit_5.png" dithering="none"/>
+    <bitmap id="TimeDigit6" filename="time_digit_6.png" dithering="none"/>
+    <bitmap id="TimeDigit7" filename="time_digit_7.png" dithering="none"/>
+    <bitmap id="TimeDigit8" filename="time_digit_8.png" dithering="none"/>
+    <bitmap id="TimeDigit9" filename="time_digit_9.png" dithering="none"/>
+    <bitmap id="TimeColon" filename="time_colon.png" dithering="none"/>
+</drawables>
